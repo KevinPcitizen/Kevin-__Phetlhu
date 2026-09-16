@@ -1,4 +1,4 @@
-# Kevin-__Phetlhu
+# Kevin__Phetlhu
 Shoe Inventory Management System
 
 # This a python based system with command-line in managing sneakers across global warehouses.
