@@ -20,3 +20,6 @@ This a python based system with command-line in managing sneakers across global 
 # Built with 
 -Python 3.x : Core programming Language.
 
+# Credits
+- Hyperiondev : course and academic support ; Project template 
+
